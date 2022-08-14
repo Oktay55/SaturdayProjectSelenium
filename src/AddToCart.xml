@@ -1,0 +1,8 @@
+<suite name="Add to cart test suite">
+    <test name="Add to cart Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test.AddToCartTest"></class>
+        </classes>
+    </test>
+</suite>

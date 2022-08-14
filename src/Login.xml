@@ -1,0 +1,38 @@
+<suite name = "Contact Us ">
+
+    <test name = "contact Us Button Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name = "message" value="Hello World"></parameter>
+
+        <classes>
+
+            <class name="Test.ContactUsButtonTest"></class>
+
+        </classes>
+    </test>
+
+    <test name = "contact Us Button Test 2">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name = "message" value="I am Oktay Saglam"></parameter>
+
+        <classes>
+
+            <class name="Test.ContactUsButtonTest"></class>
+
+        </classes>
+    </test>
+
+
+
+    <test name = "contact Us Button Test 3">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name = "message" value="How are you?"></parameter>
+
+        <classes>
+
+            <class name="Test.ContactUsButtonTest"></class>
+
+        </classes>
+    </test>
+
+</suite>
